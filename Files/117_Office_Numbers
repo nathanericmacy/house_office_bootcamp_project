@@ -6,7 +6,7 @@ Alabama,4th,"Aderholt, Robert",R,266 CHOB,(202) 225-4876,CHOB,266,Aderholt,Rober
 Alabama,5th,"Brooks, Mo",R,2185 RHOB,(202) 225-4801,RHOB,2185,Brooks,Mo,no
 Alabama,6th,"Palmer, Gary",R,170 CHOB,(202) 225-4921,CHOB,170,Palmer,Gary,no
 Alabama,7th,"Sewell, Terri A.",D,2201 RHOB,(202) 225-2665,RHOB,2201,Sewell,Terri A.,no
-Alabama,At Large,"Young, Don- Vacancy",R,2314 RHOB,(202) 225-5765,RHOB,2314,Young,Don- Vacancy,no
+Alaska,At_Large,"Young, Don- Vacancy",R,2314 RHOB,(202) 225-5765,RHOB,2314,Young,Don- Vacancy,no
 American_Samoa,Delegate,"Radewagen, Amata",R,1339 LHOB,(202) 225-8577,LHOB,1339,Radewagen,Amata,no
 Arizona,1st,"O'Halleran, Tom",D,318 CHOB,(202) 225-3361,CHOB,318,O'Halleran,Tom,no
 Arizona,2nd,"Kirkpatrick, Ann",D,309 CHOB,(202) 225-2542,CHOB,309,Kirkpatrick,Ann,no
@@ -86,7 +86,7 @@ Connecticut,2nd,"Courtney, Joe",D,2449 RHOB,(202) 225-2076,RHOB,2449,Courtney,Jo
 Connecticut,3rd,"DeLauro, Rosa L.",D,2413 RHOB,(202) 225-3661,RHOB,2413,DeLauro,Rosa L.,no
 Connecticut,4th,"Himes, Jim",D,2137 RHOB,(202) 225-5541,RHOB,2137,Himes,Jim,no
 Connecticut,5th,"Hayes, Jahana",D,1415 LHOB,(202) 225-4476,LHOB,1415,Hayes,Jahana,no
-Delaware,At Large,"Blunt Rochester, Lisa",D,1724 LHOB,(202) 225-4165,LHOB,1724,Blunt Rochester,Lisa,no
+Delaware,At_Large,"Blunt Rochester, Lisa",D,1724 LHOB,(202) 225-4165,LHOB,1724,Blunt Rochester,Lisa,no
 District_of_Columbia,Delegate,"Norton, Eleanor Holmes",D,2136 RHOB,(202) 225-8050,RHOB,2136,Norton,Eleanor Holmes,no
 Florida,1st,"Gaetz, Matt",R,1721 LHOB,(202) 225-4136,LHOB,1721,Gaetz,Matt,no
 Florida,2nd,"Dunn, Neal",R,316 CHOB,(202) 225-5235,CHOB,316,Dunn,Neal,no
@@ -405,7 +405,7 @@ Utah,1st,"Moore, Blake D.",R,1320 LHOB,(202) 225-0453,LHOB,1320,Moore,Blake D.,y
 Utah,2nd,"Stewart, Chris",R,166 CHOB,(202) 225-9730,CHOB,166,Stewart,Chris,no
 Utah,3rd,"Curtis, John R.",R,2400 RHOB,(202) 225-7751,RHOB,2400,Curtis,John R.,no
 Utah,4th,"Owens, Burgess",R,1039 LHOB,(202) 225-3011,LHOB,1039,Owens,Burgess,yes
-Vermont,At Large,"Welch, Peter",D,2187 RHOB,(202) 225-4115,RHOB,2187,Welch,Peter,no
+Vermont,At_Large,"Welch, Peter",D,2187 RHOB,(202) 225-4115,RHOB,2187,Welch,Peter,no
 Virginia,1st,"Wittman, Robert J.",R,2055 RHOB,(202) 225-4261,RHOB,2055,Wittman,Robert J.,no
 Virginia,2nd,"Luria, Elaine",D,412 CHOB,(202) 225-4215,CHOB,412,Luria,Elaine,no
 Virginia,3rd,"Scott, Robert C.",D,2328 RHOB,(202) 225-8351,RHOB,2328,Scott,Robert C.,no
@@ -439,4 +439,4 @@ Wisconsin,5th,"Fitzgerald, Scott",R,1507 LHOB,(202) 225-5101,LHOB,1507,Fitzgeral
 Wisconsin,6th,"Grothman, Glenn",R,1427 LHOB,(202) 225-2476,LHOB,1427,Grothman,Glenn,no
 Wisconsin,7th,"Tiffany, Thomas P.",R,1719 LHOB,(202) 225-3365,LHOB,1719,Tiffany,Thomas P.,no
 Wisconsin,8th,"Gallagher, Mike",R,1230 LHOB,(202) 225-5665,LHOB,1230,Gallagher,Mike,no
-Wyoming,At Large,"Cheney, Liz",R,416 CHOB,(202) 225-2311,CHOB,416,Cheney,Liz,no
+Wyoming,At_Large,"Cheney, Liz",R,416 CHOB,(202) 225-2311,CHOB,416,Cheney,Liz,no
